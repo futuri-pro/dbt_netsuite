@@ -1,3 +1,4 @@
 packages:
 - package: fivetran/netsuite_source
   version: [">=0.7.0", "<0.8.0"]
+#- local: /Users/ericbaranowski/ldrhub/data/netsuite/dbt_netsuite_source # use a local path
